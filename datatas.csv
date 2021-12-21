@@ -1,0 +1,101 @@
+﻿no;kode barang;model tas;ukuran;warna;harga;status
+1;SB;Slingbag;Besar;coklat;90000;laris 
+2;SB;Slingbag;Kecil;cream ;100000;laris 
+3;SB;Slingbag;Besar;coklat;90000;kurang 
+4;SB;Slingbag;Kecil;cream ;90000;kurang
+5;SB;Slingbag;Kecil;hitam ;70000;laris 
+6;SB;Slingbag;Besar ;hitam ;90000;kurang
+7;SB;Slingbag;Besar ;cream ;90000;kurang
+8;SB;Slingbag;Kecil;coklat;80000;laris 
+9;SB;Slingbag;Besar ;cream ;90000;kurang 
+10;SB;Slingbag;Besar ;cream ;50000;laris 
+11;SB;Slingbag;Kecil;coklat;90000;kurang 
+12;SB;Slingbag;Kecil;hitam ;60000; laris
+13;SB;Slingbag;Besar ;cream ;90000; kurang 
+14;SB;Slingbag;Besar;hitam ;80000;laris
+15;SB;Slingbag;Kecil;coklat;90000;kurang 
+16;SB;Slingbag;Besar;hitam ;60000;laris 
+17;SB;Slingbag;Kecil;coklat;70000;laris 
+18;SB;Slingbag;Kecil;cream ;90000;kurang 
+19;SB;Slingbag;Besar ;cream ;90000;kurang 
+20;SB;Slingbag;Besar ;cream ;70000;laris 
+21;SB;Slingbag;Kecil;coklat ;90000;kurang
+22;SB;Slingbag;Besar ;coklat;90000;kurang
+23;SB;Slingbag;Kecil;hitam ;80000;laris 
+24;TB;Totebag;besar;hitam;75000;laris
+25;TB;Totebag;besar;putih;85000;laris
+26;TB;Totebag;besar;cream;90000;kurang
+27;TB;Totebag;kecil;coklat;15000;kurang
+28;TB;Totebag;kecil;hitam;20000;laris
+29;TB;Totebag;kecil;putih;15000;laris
+30;TB;Totebag;kecil;cream;10000;kurang
+31;TB;Totebag;kecil;coklat;17000;laris
+32;TB;Totebag;kecil;hitam;25000;laris
+33;TB;Totebag;kecil;putih;17000;laris
+34;TB;Totebag;kecil;cream;17000;laris
+35;TB;Totebag;kecil;coklat;20000;kurang
+36;TB;Totebag;kecil;hitam;30000;laris
+37;TB;Totebag;kecil;putih;25000;laris
+38;TB;Totebag;kecil;cream;20000;laris
+39;TB;Totebag;kecil;coklat;25000;laris
+40;TB;Totebag;kecil;hitam;50000;laris
+41;TB;Totebag;kecil;putih;30000;laris
+42;TB;Totebag;kecil;cream;30000;kurang
+43;TB;Totebag;kecil;coklat;30000;laris
+44;TB;Totebag;kecil;hitam;45000;laris
+45;SB;Slingbag;Besar ;hitam ;100000;kurang 
+46;SB;Slingbag;Besar ;hitam ;50000;laris 
+47;SB;Slingbag;Kecil;coklat;70000;laris 
+48;SB;Slingbag;Kecil;hitam ;90000;laris 
+49;SB;Slingbag;Besar ;coklat ;60000;laris 
+50;SB;Slingbag;Kecil;cream ;70000;laris 
+51;SB;Slingbag;Besar ;hitam ;90000;kurang
+52;SB;Slingbag;Besar ;cream ;100000;kurang
+53;SB;Slingbag;Kecil;hitam ;90000;kurang 
+54;SB;Slingbag;Besar;hitam ;70000;laris 
+55;BP;Backpack;kecil;hitam;25.000;laris
+56;BP;Backpack;besar;hitam;25.000;laris
+57;BP;Backpack;besar;hitam;40.000;laris
+58;BP;Backpack;kecil;cream;50.000;laris
+59;BP;Backpack;kecil;cream;50.000;laris
+60;BP;Backpack;kecil;coklat;40.000;kurang
+61;BP;Backpack;kecil;cream;20.000;kurang
+62;BP;Backpack;besar;cream;65.000;laris
+63;BP;Backpack;kecil;coklat;50.000;kurang
+64;BP;Backpack;besar;putih;60.000;laris
+65;BP;Backpack;besar;putih;65.000;kurang
+66;BP;Backpack;besar;coklat;85.000;laris
+67;BP;Backpack;besar;coklat;75.000;kurang
+68;BP;Backpack;besar;cream;90.000;laris
+69;BP;Backpack;besar;hitam;100.000;laris
+70;BP;Backpack;besar;hitam;30.000;laris
+71;BP;Backpack;besar;cream;65.000;laris
+72;BP;Backpack;besar;coklat;95.000;kurang
+73;BP;Backpack;kecil;putih;55.000;kurang
+74;BP;Backpack;besar;putih;50.000;kurang
+75;BP;Backpack;kecil;putih;35.000;kurang
+76;BP;Backpack;kecil;putih;35.000;kurang
+77;BP;Backpack;kecil;cream;60.000;laris
+78;BP;Backpack;kecil;coklat;30.000;kurang
+79;BP;Backpack;kecil;hitam;40.000;laris
+80;BP;Backpack;besar;coklat;60.000;laris
+81;BP;Backpack;besar;coklat;70.000;kurang
+82;BP;Backpack;kecil;coklat;80.000;kurang
+83;BP;Backpack;besar;cream;80.000;laris
+84;BP;Backpack;kecil;cream;65.000;kurang
+85;BP;Backpack;besar;coklat;75.000;kurang
+86;BP;Backpack;besar;cream;75.000;laris
+87;BP;Backpack;besar;putih;80.000;kurang
+88;BP;Backpack;kecil;hitam;60.000;laris
+89;TB;Totebag;besar;hitam;50000;laris
+90;TB;Totebag;besar;putih;55000;laris
+91;TB;Totebag;besar;cream;60000;laris
+92;TB;Totebag;besar;coklat;50000;kurang
+93;TB;Totebag;besar;hitam;55000;laris
+94;TB;Totebag;besar;putih;80000;kurang
+95;TB;Totebag;besar;cream;75000;kurang
+96;TB;Totebag;besar;coklat;80000;kurang
+97;TB;Totebag;besar;hitam;65000;laris
+98;TB;Totebag;besar;putih;70000;laris
+99;TB;Totebag;besar;cream;50000;laris
+100;TB;Totebag;besar;coklat;67000;kurang
